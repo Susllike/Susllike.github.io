@@ -130,4 +130,8 @@ footer p {
 	.grid-container {
 		grid-template-columns: auto;
 	}
+
+	#navbar li {
+		font-size: 16px;
+	}
 }
