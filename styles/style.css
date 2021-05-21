@@ -99,13 +99,22 @@ h2 {
 }
 
 #goals {
-	text-align: center;
+	padding: 0 20px;
 }
 
 #clock {
 	font-size: 100px;
 	padding: 0;
 	margin: 0;
+	text-align: center;
+}
+
+#goals h3 {
+	text-align: center;
+}
+
+#goals li {
+	margin-bottom: 7px;
 }
 
 #contact {
