@@ -61,12 +61,10 @@ h2, .intro {
 	text-align: center;
 }
 
-/*
 #greeting {
 	padding-top: 300px;
 	margin-bottom: 700px;
 }
-*/
 
 .grid-container {
 	display: grid;
@@ -94,7 +92,7 @@ h2 {
 	font-weight: 500;
 	font-size: 60px;
 }
-/*
+
 #about {
 	width: 80%;
 	margin: 0 auto;
@@ -119,7 +117,6 @@ h2 {
 	margin-bottom: 7px;
 	text-align: left;
 }
-*/
 
 #contact {
 	text-align: center;
