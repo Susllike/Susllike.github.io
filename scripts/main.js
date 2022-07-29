@@ -1,4 +1,4 @@
-var countDownDate = new Date("June 3, 2022 17:00:00").getTime();
+var countDownDate = new Date("October 24, 2022 00:00:00").getTime();
 // Update the count down every 1 second
 var x = setInterval(function() {
 	// Get today's date and time
@@ -20,6 +20,6 @@ var x = setInterval(function() {
 	// If the count down is over, write some text 
 	if (distance < 0) {
 		clearInterval(x);
-		document.getElementById("clock").innerHTML = "0:0:0:0<br>Looks like someone graduated :)";
+		document.getElementById("clock").innerHTML = "0:0:0:0<br>19th birthday :)";
 	}
 }, 1000);
